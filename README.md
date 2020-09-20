@@ -4,4 +4,4 @@ Bubble Transform and blast animation with BezierPath.
 
 Preview:
 ---------------------------
-[![Watch the video](https://img.youtube.com/vi/AThndVVDGNA/mqdefault.jpg)](https://youtu.be/AThndVVDGNA)
+![alt text](https://github.com/AbhiMakadia/BubbleAnimation/blob/master/preview.gif)
